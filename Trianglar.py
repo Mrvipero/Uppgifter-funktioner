@@ -14,7 +14,7 @@ def likbent_triangel(Symbol):
 Symbol = int(input("skriv in ett udda tal: "))
 
 if Symbol % 2 == 0:
-    print("Du du skriv in är inte udda")
+    print("Det talet du skriv in är inte udda")
 
 else: 
     ratviklig_triangel(Symbol)
